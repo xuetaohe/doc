@@ -1,4 +1,5 @@
 doc
+:hibiscus::hibiscus::hibiscus:
 ===
 # ECMAScript 6入门
 
